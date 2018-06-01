@@ -7,9 +7,9 @@ Awesome Ethereum & Dapps Resources
 ### 솔리디티
 
 - [Ethereum Solidity 문법 이해(1)](https://d2fault.github.io/2018/03/19/20180319-about-solidity-1/)
-- [Ethereum Solidity 문법 이해(1)](https://d2fault.github.io/2018/03/19/20180319-about-solidity-2/)
-- [Ethereum Solidity 문법 이해(1)](https://d2fault.github.io/2018/03/20/20180320-about-solidity-3/)
-- [Ethereum Solidity 문법 이해(1)](https://d2fault.github.io/2018/03/20/20180320-about-solidity-4/)
+- [Ethereum Solidity 문법 이해(2)](https://d2fault.github.io/2018/03/19/20180319-about-solidity-2/)
+- [Ethereum Solidity 문법 이해(3)](https://d2fault.github.io/2018/03/20/20180320-about-solidity-3/)
+- [Ethereum Solidity 문법 이해(4)](https://d2fault.github.io/2018/03/20/20180320-about-solidity-4/)
 
 ### 솔리디티 개발 예제들
 
