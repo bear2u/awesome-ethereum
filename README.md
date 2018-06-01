@@ -2,6 +2,27 @@
 Awesome Ethereum & Dapps Resources
 ![Awesome Ethereum](https://www.dropbox.com/s/3wybtpks1cx94k4/ethereum.jpg?raw=1 "Awesome Ethereum")
 
+#### 한글 이더리움 교육들
+
+### 솔리디티
+
+- [Ethereum Solidity 문법 이해(1)](https://d2fault.github.io/2018/03/19/20180319-about-solidity-1/)
+- [Ethereum Solidity 문법 이해(1)](https://d2fault.github.io/2018/03/19/20180319-about-solidity-2/)
+- [Ethereum Solidity 문법 이해(1)](https://d2fault.github.io/2018/03/20/20180320-about-solidity-3/)
+- [Ethereum Solidity 문법 이해(1)](https://d2fault.github.io/2018/03/20/20180320-about-solidity-4/)
+
+### 솔리디티 개발 예제들
+
+- [[dApp] 진짜 쉬운 이더리움 은행 만들기 1편 with Truffle](https://steemit.com/ethereum/@dangen/dapp-1-with-truffle)
+- [[dApp] 진짜 쉬운 이더리움 은행 만들기 2편 with Truffle](https://steemit.com/ethereum/@dangen/dapp-2-with-truffle)
+- [[dApp] solidity를 이용한 크라우드 세일 계약 시리즈](https://medium.com/dnext-post/solidity-tutorial-1-252c9edf2f84)
+
+### 이더리움 코어 교육들
+- [머클 패트리샤 트리를 이해하기 위한 여정](https://okky.kr/article/464145)
+
+#### 한글 이더리움 관련 기사들
+- [블록체인-확장성-솔루션-시리즈-1-1-casper-overview](https://medium.com/decipher-media/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%ED%99%95%EC%9E%A5%EC%84%B1-%EC%86%94%EB%A3%A8%EC%85%98-%EC%8B%9C%EB%A6%AC%EC%A6%88-1-1-casper-overview-3e0154487458)
+
 
 #### About Ethereum
 
